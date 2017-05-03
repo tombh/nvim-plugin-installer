@@ -1,0 +1,18 @@
+*nvim-plugin-installer.txt* Search and install plugins from inside Neovim.
+
+                  Neovim Plugin Installer
+
+==============================================================================
+
+CONTENTS                                 *nvim-plugin-installer*
+
+    1. Introduction .................... |nvim-plugin-installer-intro|
+
+
+Original Author:    Thomas Buckley-Houston and Stefan Lindl
+License:            The Unlicense
+
+INTRODUCTION                                *nvim-plugin-installer-intro*
+
+A plugin to search and install plugins for Neovim.
+
